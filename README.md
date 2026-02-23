@@ -21,7 +21,7 @@ Patterns and principles presented here are **framework/language agnostic**. Ther
 
 ---
 
-- [Domain-Driven Hexagon](#domain-driven-hexagon)(новый клон 2)
+- [Domain-Driven Hexagon](#domain-driven-hexagon)(новый клон 3)
 - [Architecture](#architecture)
       - [Pros](#pros)
       - [Cons](#cons)
