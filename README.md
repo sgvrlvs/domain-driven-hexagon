@@ -21,7 +21,7 @@ Patterns and principles presented here are **framework/language agnostic**. Ther
 
 ---
 
-- [Domain-Driven Hexagon](#domain-driven-hexagon)(branch1 commit А)
+- [Domain-Driven Hexagon](#domain-driven-hexagon)(branch1 commit B)
 - [Architecture](#architecture)
       - [Pros](#pros)
       - [Cons](#cons)
